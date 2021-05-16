@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: willianjusten/will-jekyll-template
 title: A Personal Website
-twitter: "oqtavios"
+twitter_username: oqtavios
+baseurl: ""
+username: Leo D.
