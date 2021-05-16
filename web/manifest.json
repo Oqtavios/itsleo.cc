@@ -1,11 +1,11 @@
 {
-    "name": "homepage",
-    "short_name": "homepage",
+    "name": "Leo D.",
+    "short_name": "Leo D.",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "itsleo.cc homepage",
+    "background_color": "A6A6A6",
+    "theme_color": "#FFEB3B",
+    "description": "Leo D.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
