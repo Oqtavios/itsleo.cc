@@ -1,5 +1,11 @@
-remote_theme: h01000110/windows-95
-title: A Personal Website
-twitter_username: oqtavios
+remote_theme: broccolini/swiss
+title: Leo D.
+description: A Personal Website
+#twitter: "oqtavios"
 baseurl: ""
-username: Leo D.
+#username: oqtavios
+#user_title: Leo D.
+theme_color: yellow
+social_link: twitter
+social_username: oqtavios
+github_username: oqtavios
