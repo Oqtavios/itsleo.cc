@@ -12,7 +12,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.yellow,
         accentColor: Colors.yellow.shade700,
-        canvasColor: Colors.black.withOpacity(0.65),
+        canvasColor: Colors.black.withOpacity(0.75),
+        scaffoldBackgroundColor: Colors.black.withOpacity(0.75),
+        backgroundColor: Colors.black.withOpacity(0.75),
         brightness: Brightness.dark,
       ),
       home: MyHomePage(),
