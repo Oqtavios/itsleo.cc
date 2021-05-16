@@ -1,3 +1,3 @@
-remote_theme: willianjusten/will-jekyll-template
+#remote_theme: willianjusten/will-jekyll-template
 
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
