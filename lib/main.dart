@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: "Leo. D",
       theme: ThemeData(
         primarySwatch: Colors.yellow,
-        accentColor: Colors.yellow.shade700,
+        accentColor: Colors.yellow.shade800,
         canvasColor: Colors.black87,
         scaffoldBackgroundColor: Colors.black87,
         backgroundColor: Colors.black87,
@@ -38,8 +38,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Icon(
-              Icons.construction_outlined,
-              color: Theme.of(context).colorScheme.secondaryVariant,
+              Icons.wifi_off_outlined,
+              color: Theme.of(context).splashColor,
               size: 92,
             ),
             Padding(
