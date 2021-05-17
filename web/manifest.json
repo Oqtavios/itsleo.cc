@@ -8,7 +8,7 @@
     "description": "Leo D.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "icons": [
+    "noticons": [
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
